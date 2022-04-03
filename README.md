@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JungDae%20Suh&fontSize=90)
 
-안녕하세요! 백엔드 개발자 서정대입니다. 
+### :wave: Hello! I'm a backend dev with a thirst for growth. 
 
 # :hammer_and_wrench: Stacks 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
