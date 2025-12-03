@@ -5,8 +5,6 @@
 
 
 
-[![JungDae's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungdaesuh)](https://github.com/jungdaesuh/github-readme-stats)
-
 <!--
 **jungdaesuh/jungdaesuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
